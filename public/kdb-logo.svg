@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <rect width="120" height="40" fill="#1a2b4a" rx="2"/>
+  <text x="60" y="26" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">KDB</text>
+  <rect x="0" y="36" width="120" height="4" fill="#c9a227"/>
+</svg>
