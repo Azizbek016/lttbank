@@ -1,6 +1,6 @@
 import { uz } from '../i18n/uz';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL?.replace(/\/$/, '') || '/api';
 
 async function handleResponse(res) {
   const data = await res.json().catch(() => ({}));
